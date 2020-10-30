@@ -18,6 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Sentry](https://sentry.io/privacy/)
+*   [Github](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
 
 **Log Data**
 
