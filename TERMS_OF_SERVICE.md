@@ -11,6 +11,7 @@ The app does use third party services that declare their own Terms and Condition
 Link to Terms and Conditions of third party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Sentry](https://sentry.io/terms/)
 *   [Github](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service)
 
@@ -28,7 +29,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2020-10-30
+These terms and conditions are effective as of 2021-04-16
 
 **Contact Us**
 
